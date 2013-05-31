@@ -1,5 +1,4 @@
-opencity
+DOCUMENTAZIONI URL
 ========
 
-Documentazione SEGNALAZIONE
-http://opencity.tk.hostinghood.com/public/segnalazione
+Servizio SEGNALAZIONE: http://opencity.tk.hostinghood.com/public/segnalazione
