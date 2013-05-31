@@ -1,7 +1,7 @@
 DOCUMENTAZIONI URL
 ========
 
----------- DOCUMENTAZIONE PER TUTTI LE CATEGORIE ----------
+---------- DOCUMENTAZIONE PER TUTTE LE CATEGORIE ----------
 http://opencity.tk.hostinghood.com/public/
 
 
